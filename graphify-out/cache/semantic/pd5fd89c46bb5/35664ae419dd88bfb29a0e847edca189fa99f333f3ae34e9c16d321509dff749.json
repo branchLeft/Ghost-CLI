@@ -1,1 +1,0 @@
-{"nodes": [{"id": "extensions_nginx_test_fixtures_ssl_without_le_config", "label": "nginx Fixture: SSL via Comodo (non-Let's Encrypt)", "file_type": "code", "source_file": "extensions/nginx/test/fixtures/ssl-without-le.txt", "source_location": null, "source_url": null, "captured_at": null, "author": null, "contributor": null}], "edges": [], "hyperedges": []}
